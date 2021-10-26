@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <p>prueba</p>
+    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit placeat expedita fuga doloremque eum aspernatur nam omnis aperiam voluptatem doloribus alias totam magnam est odio ipsam numquam, quis harum saepe?
 </body>
 </html>
