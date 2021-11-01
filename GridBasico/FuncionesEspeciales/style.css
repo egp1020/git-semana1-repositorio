@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+main{
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: antiquewhite;
+    border: 5px solid sandybrown;
+    background-color: teal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: minmax(150px, 400px) 200px minmax(150px, 500px);
+    /* grid-template-rows: 150px 150px 150px; */
+    grid-template-rows: repeat(3, auto);
+}
+
+.items{
+    border: 5px solid sandybrown;
+}
+
