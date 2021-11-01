@@ -1,0 +1,115 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+main{
+    max-width: 1200px;
+    margin: 0 auto;
+    font-size: 1.6rem;
+}
+
+h1{
+    margin: 0;
+    font-size: 7rem;
+    font-weight:900;
+    color:rgb(13, 2, 63);
+}
+
+.hero{
+    display: grid;
+    place-content: center;
+    grid-template-columns: minmax(300px, 2fr) 3fr;
+    grid-auto-rows: 520px;
+}
+
+.hero-image{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.info{
+    align-self: center;
+}
+
+.info-btn{
+    font-size: 1.5rem;
+    border: 1px solid orangered;
+    border-radius: 20px;
+    color: lavender;
+    background-color:orangered;
+    font-weight: bolder;
+    padding: 12px 24px;
+}
+
+h2{
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 800;
+    color: rgb(13, 2, 63);
+    margin-bottom: 50px;
+}
+
+.services{
+    margin: 100px auto;
+}
+
+.dishes{
+    display: grid;
+    justify-content: center;
+    grid-template-columns: repeat(auto-fit, minmax(75px, 200px));
+    grid-auto-rows: 1fr;
+    gap: 25px;
+}
+
+.dishes-item{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.dishe-big{
+    grid-area: 1/1/3/3;
+}
+
+.menu{
+    margin-bottom: 50px;
+}
+
+.dishes-menu{
+    display: grid;
+    gap: 25px;
+    justify-content: center;
+    grid-template-columns: repeat(auto-fit, minmax(75px, 200px));
+}
+
+.plates-item{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.menu-grid-item{
+    background-color: papayawhip;
+    border-top-left-radius: 40px;
+}
+
+@media screen and (max-width: 768px){
+    .hero{
+        grid-template-columns: minmax(300px, 500px);
+        justify-content: center;
+    }
+
+    .hero-image{
+        display:none;
+    }
+
+    .dishes{
+        grid-template-columns: repeat(auto-fit, minmax(75px, 150px));
+    }
+}
