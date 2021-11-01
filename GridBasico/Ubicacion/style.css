@@ -1,0 +1,116 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+main{
+    font-size: 2rem;
+    font-weight: 700;
+    color: antiquewhite;
+    border: 5px solid sandybrown;
+    background-color: teal;
+}
+
+.contenedor-1{
+    display: grid;
+    place-content: center;
+    grid-template-columns: 150px 150px 150px;
+    grid-template-rows: 75px 75px 75px;
+    grid-template-areas:
+    "header header header"
+    "side main main"
+    "side main main"
+    ;
+}
+
+.item{
+    font-size: 4rem;
+}
+
+.item-1{
+    border: 3px solid brown;
+    background-color: indianred;
+    /* grid-column-start: 1;
+    grid-column-end: 4; */
+    /* grid-column: 1/4; */
+    grid-area: header;
+}
+
+.item-2{
+    border: 3px solid tomato;
+    background-color: sandybrown;
+    /* grid-row-start: 2;
+    grid-row-end: 4; */
+    /* grid-row: 2/4; */
+    grid-area: side;
+
+}
+
+.item-3{
+    border: 3px solid goldenrod;
+    background-color: gold;
+    /* grid-area: 2 / 2 / 4 / 4; */ /* Row start / column star / row end / column end*/
+    grid-area: main;
+}
+
+.contenedor-2{
+    display: grid;
+    place-content: center;
+    grid-template-columns: repeat(3, 150px);
+    grid-template-rows: repeat(3, 70px);
+    grid-template-areas:
+    "one two two"
+    "three three four"
+    "five six seven";
+}
+
+.items{
+    font-size: 4rem;
+}
+
+.items-1{
+    border: 3px solid brown;
+    background-color: indianred;
+    grid-area: one;
+}
+
+.items-2{
+    border: 3px solid tomato;
+    background-color: sandybrown;
+    grid-area: two;
+}
+
+.items-3{
+    border: 3px solid goldenrod;
+    background-color: gold;
+    grid-area: three;
+}
+
+.items-4{
+    border: 3px solid brown;
+    background-color: indianred;
+    grid-area: four;
+}
+
+.items-5{
+    border: 3px solid brown;
+    background-color: indianred;
+    grid-area: five;
+}
+
+.items-6{
+    border: 3px solid tomato;
+    background-color: sandybrown;
+    grid-area: six;
+}
+
+.items-7{
+    border: 3px solid goldenrod;
+    background-color: gold;
+    grid-area: seven;
+}
