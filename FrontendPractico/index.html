@@ -5,12 +5,32 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="./Style/style.css">
+    <link rel="stylesheet" href="./style/style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;500;700&display=swap" rel="stylesheet">
 </head>
 <body>
-    
+    <main>
+        <div class="form-container">
+            <img src="./img/logos/logo_yard_sale.svg" alt="logo" class="logo">
+            <h1 class="title">Create a new password</h1>
+            <p class="subtitle">Enter a new password for your account</p>
+
+            <form action="/" class="form">
+                <label for="password">
+                    <span class="label">Password</span>
+                    <input type="password" name="password" id="password" class="input input-password"placeholder="*******">
+                </label>
+                <label for="re-password">
+                    <span class="label">Re-enter password</span>
+                    <input type="password" name="re-password" id="re-password" class="input re-input" placeholder="*******">
+                </label>
+                <label for="">
+                    <button type="submit" class="primary-btn login-btn">Confirm new password</button>
+                </label>
+            </form>
+        </div>
+    </main>
 </body>
 </html>
