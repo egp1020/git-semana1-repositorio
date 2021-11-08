@@ -6,6 +6,7 @@ from app import create_app
 from app.forms import LoginForm
 
 app = create_app()
+
 todos = ['Comprar cafe.', 'Programar.', 'Pedir disculpas por la entrega tarde.']
 
 @app.cli.command()
@@ -19,7 +20,7 @@ def not_found(error):
 
 @app.errorhandler(500)
 def internal_server_error(error):
-    render_template('500.html', error=error), 500
+    render_template('500.html', error=error)
 
 @app.route("/")
 def index():
