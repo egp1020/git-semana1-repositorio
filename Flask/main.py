@@ -1,10 +1,10 @@
-from flask import Flask, request, make_response, redirect, render_template
+from flask import Flask, request, make_response, redirect, render_template, session
 from flask_bootstrap import Bootstrap
 
 app = Flask(__name__)
 bootstrap = Bootstrap(app)
 
-
+app.config['SECRET_KEY'] = 'SUPER SECRETO'
 todos = ['Comprar cafe.', 'Programar.', 'Pedir disculpas por la entrega tarde.']
 
 @app.errorhandler(404)
@@ -19,12 +19,12 @@ def internal_server_error(error):
 def index():
     user_ip = request.remote_addr
     response = make_response(redirect('/hello'))
-    response.set_cookie('ip', user_ip)
+    session['ip'] = user_ip
     return response
 
 @app.route("/hello")
 def hello():
-    user_ip=request.cookies.get('ip')
+    user_ip=session.get('ip')
     # return render_template('hello.html', user_ip = user_ip, todo = todos)
     context={
         'user_ip':user_ip,
