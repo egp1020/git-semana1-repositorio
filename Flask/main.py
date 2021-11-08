@@ -26,12 +26,12 @@ def internal_server_error(error):
 def index():
     user_ip = request.remote_addr
     response = make_response(redirect('/hello'))
-    session['ip'] = user_ip
+    session['user_ip'] = user_ip
     return response
 
 @app.route("/hello", methods=['GET', 'POST'])
 def hello():
-    user_ip=session.get('ip')
+    user_ip=session.get('user_ip')
     # return render_template('hello.html', user_ip = user_ip, todo = todos)
     login_form=LoginForm()
     username = session.get('username')
