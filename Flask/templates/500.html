@@ -1,9 +1,10 @@
 {% extends 'base.html' %}
 {% block title %}
     {{ super () }}
-    404
+    500
 {% endblock %}
 {% block content %}
-    <h1>Lo sentimos, no encontramos lo que buscaba.</h1>
+    <h1>Lo sentimos</h1>
+    <p>Estamos teniendo problemas con el servidor.</p>
     <p>{{ error }}</p>
 {% endblock content %}
