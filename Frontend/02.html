@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>¿Qué es HTML semántico</title>
+</head>
+<body>
+    <!-- Erronéo -->
+    <div>Hola</div>
+    <div>Nav
+        <div> <!--La etiqueta div no indica nada-->
+            <div>Elemento 1</div>
+            <div>Elemento 2</div>
+        </div>
+    </div>
+
+    <!-- Correcto: reemplazando lo anterior por las etiquetas correspondientes -->
+    <header> <!--Etiquetas con sentido-->
+        <nav>
+            <ul>
+                <li>Elemento 1</li>
+                <li>Elemento 2</li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <p>Hola</p>
+    </main>
+    <footer>
+        <p>This is the footer</p>
+    </footer>
+</body>
+</html>
