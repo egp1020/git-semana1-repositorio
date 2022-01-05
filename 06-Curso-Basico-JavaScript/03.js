@@ -1,0 +1,3 @@
+// Variables
+
+var nombre = "Estefanía";
