@@ -1,0 +1,15 @@
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppString\ConsoleAppString\bin\Debug\net6.0\ConsoleAppString.exe
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppString\ConsoleAppString\bin\Debug\net6.0\ConsoleAppString.deps.json
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppString\ConsoleAppString\bin\Debug\net6.0\ConsoleAppString.runtimeconfig.json
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppString\ConsoleAppString\bin\Debug\net6.0\ConsoleAppString.dll
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppString\ConsoleAppString\bin\Debug\net6.0\ref\ConsoleAppString.dll
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppString\ConsoleAppString\bin\Debug\net6.0\ConsoleAppString.pdb
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppString\ConsoleAppString\obj\Debug\net6.0\ConsoleAppString.csproj.AssemblyReference.cache
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppString\ConsoleAppString\obj\Debug\net6.0\ConsoleAppString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppString\ConsoleAppString\obj\Debug\net6.0\ConsoleAppString.AssemblyInfoInputs.cache
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppString\ConsoleAppString\obj\Debug\net6.0\ConsoleAppString.AssemblyInfo.cs
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppString\ConsoleAppString\obj\Debug\net6.0\ConsoleAppString.csproj.CoreCompileInputs.cache
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppString\ConsoleAppString\obj\Debug\net6.0\ConsoleAppString.dll
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppString\ConsoleAppString\obj\Debug\net6.0\ref\ConsoleAppString.dll
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppString\ConsoleAppString\obj\Debug\net6.0\ConsoleAppString.pdb
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppString\ConsoleAppString\obj\Debug\net6.0\ConsoleAppString.genruntimeconfig.cache

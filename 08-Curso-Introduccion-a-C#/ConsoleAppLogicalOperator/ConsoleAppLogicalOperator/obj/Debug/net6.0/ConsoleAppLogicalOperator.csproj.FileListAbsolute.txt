@@ -1,0 +1,14 @@
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppLogicalOperator\ConsoleAppLogicalOperator\bin\Debug\net6.0\ConsoleAppLogicalOperator.exe
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppLogicalOperator\ConsoleAppLogicalOperator\bin\Debug\net6.0\ConsoleAppLogicalOperator.deps.json
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppLogicalOperator\ConsoleAppLogicalOperator\bin\Debug\net6.0\ConsoleAppLogicalOperator.runtimeconfig.json
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppLogicalOperator\ConsoleAppLogicalOperator\bin\Debug\net6.0\ConsoleAppLogicalOperator.dll
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppLogicalOperator\ConsoleAppLogicalOperator\bin\Debug\net6.0\ref\ConsoleAppLogicalOperator.dll
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppLogicalOperator\ConsoleAppLogicalOperator\bin\Debug\net6.0\ConsoleAppLogicalOperator.pdb
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppLogicalOperator\ConsoleAppLogicalOperator\obj\Debug\net6.0\ConsoleAppLogicalOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppLogicalOperator\ConsoleAppLogicalOperator\obj\Debug\net6.0\ConsoleAppLogicalOperator.AssemblyInfoInputs.cache
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppLogicalOperator\ConsoleAppLogicalOperator\obj\Debug\net6.0\ConsoleAppLogicalOperator.AssemblyInfo.cs
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppLogicalOperator\ConsoleAppLogicalOperator\obj\Debug\net6.0\ConsoleAppLogicalOperator.csproj.CoreCompileInputs.cache
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppLogicalOperator\ConsoleAppLogicalOperator\obj\Debug\net6.0\ConsoleAppLogicalOperator.dll
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppLogicalOperator\ConsoleAppLogicalOperator\obj\Debug\net6.0\ref\ConsoleAppLogicalOperator.dll
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppLogicalOperator\ConsoleAppLogicalOperator\obj\Debug\net6.0\ConsoleAppLogicalOperator.pdb
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppLogicalOperator\ConsoleAppLogicalOperator\obj\Debug\net6.0\ConsoleAppLogicalOperator.genruntimeconfig.cache

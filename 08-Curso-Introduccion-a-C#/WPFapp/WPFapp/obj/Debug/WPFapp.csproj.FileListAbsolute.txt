@@ -1,0 +1,16 @@
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\01-class\WPFapp\WPFapp\bin\Debug\WPFapp.exe.config
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\01-class\WPFapp\WPFapp\bin\Debug\WPFapp.exe
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\01-class\WPFapp\WPFapp\bin\Debug\WPFapp.pdb
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\01-class\WPFapp\WPFapp\obj\Debug\WPFapp.csproj.AssemblyReference.cache
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\01-class\WPFapp\WPFapp\obj\Debug\WPFapp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\01-class\WPFapp\WPFapp\obj\Debug\MainWindow.g.cs
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\01-class\WPFapp\WPFapp\obj\Debug\App.g.cs
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\01-class\WPFapp\WPFapp\obj\Debug\WPFapp_MarkupCompile.cache
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\01-class\WPFapp\WPFapp\obj\Debug\WPFapp_MarkupCompile.lref
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\01-class\WPFapp\WPFapp\obj\Debug\MainWindow.baml
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\01-class\WPFapp\WPFapp\obj\Debug\WPFapp.g.resources
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\01-class\WPFapp\WPFapp\obj\Debug\WPFapp.Properties.Resources.resources
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\01-class\WPFapp\WPFapp\obj\Debug\WPFapp.csproj.GenerateResource.cache
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\01-class\WPFapp\WPFapp\obj\Debug\WPFapp.csproj.CoreCompileInputs.cache
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\01-class\WPFapp\WPFapp\obj\Debug\WPFapp.exe
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\01-class\WPFapp\WPFapp\obj\Debug\WPFapp.pdb

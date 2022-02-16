@@ -1,0 +1,14 @@
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppCalculator\ConsoleAppCalculator\bin\Debug\net6.0\ConsoleAppCalculator.exe
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppCalculator\ConsoleAppCalculator\bin\Debug\net6.0\ConsoleAppCalculator.deps.json
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppCalculator\ConsoleAppCalculator\bin\Debug\net6.0\ConsoleAppCalculator.runtimeconfig.json
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppCalculator\ConsoleAppCalculator\bin\Debug\net6.0\ConsoleAppCalculator.dll
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppCalculator\ConsoleAppCalculator\bin\Debug\net6.0\ref\ConsoleAppCalculator.dll
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppCalculator\ConsoleAppCalculator\bin\Debug\net6.0\ConsoleAppCalculator.pdb
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppCalculator\ConsoleAppCalculator\obj\Debug\net6.0\ConsoleAppCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppCalculator\ConsoleAppCalculator\obj\Debug\net6.0\ConsoleAppCalculator.AssemblyInfoInputs.cache
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppCalculator\ConsoleAppCalculator\obj\Debug\net6.0\ConsoleAppCalculator.AssemblyInfo.cs
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppCalculator\ConsoleAppCalculator\obj\Debug\net6.0\ConsoleAppCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppCalculator\ConsoleAppCalculator\obj\Debug\net6.0\ConsoleAppCalculator.dll
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppCalculator\ConsoleAppCalculator\obj\Debug\net6.0\ref\ConsoleAppCalculator.dll
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppCalculator\ConsoleAppCalculator\obj\Debug\net6.0\ConsoleAppCalculator.pdb
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppCalculator\ConsoleAppCalculator\obj\Debug\net6.0\ConsoleAppCalculator.genruntimeconfig.cache

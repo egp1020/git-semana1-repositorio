@@ -1,0 +1,15 @@
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppList\ConsoleAppList\bin\Debug\net6.0\ConsoleAppList.exe
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppList\ConsoleAppList\bin\Debug\net6.0\ConsoleAppList.deps.json
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppList\ConsoleAppList\bin\Debug\net6.0\ConsoleAppList.runtimeconfig.json
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppList\ConsoleAppList\bin\Debug\net6.0\ConsoleAppList.dll
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppList\ConsoleAppList\bin\Debug\net6.0\ref\ConsoleAppList.dll
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppList\ConsoleAppList\bin\Debug\net6.0\ConsoleAppList.pdb
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppList\ConsoleAppList\obj\Debug\net6.0\ConsoleAppList.csproj.AssemblyReference.cache
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppList\ConsoleAppList\obj\Debug\net6.0\ConsoleAppList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppList\ConsoleAppList\obj\Debug\net6.0\ConsoleAppList.AssemblyInfoInputs.cache
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppList\ConsoleAppList\obj\Debug\net6.0\ConsoleAppList.AssemblyInfo.cs
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppList\ConsoleAppList\obj\Debug\net6.0\ConsoleAppList.csproj.CoreCompileInputs.cache
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppList\ConsoleAppList\obj\Debug\net6.0\ConsoleAppList.dll
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppList\ConsoleAppList\obj\Debug\net6.0\ref\ConsoleAppList.dll
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppList\ConsoleAppList\obj\Debug\net6.0\ConsoleAppList.pdb
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppList\ConsoleAppList\obj\Debug\net6.0\ConsoleAppList.genruntimeconfig.cache

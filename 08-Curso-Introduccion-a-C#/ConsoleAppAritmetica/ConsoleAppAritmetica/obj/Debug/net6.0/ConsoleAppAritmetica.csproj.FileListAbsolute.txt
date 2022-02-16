@@ -1,0 +1,15 @@
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppAritmetica\ConsoleAppAritmetica\bin\Debug\net6.0\ConsoleAppAritmetica.exe
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppAritmetica\ConsoleAppAritmetica\bin\Debug\net6.0\ConsoleAppAritmetica.deps.json
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppAritmetica\ConsoleAppAritmetica\bin\Debug\net6.0\ConsoleAppAritmetica.runtimeconfig.json
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppAritmetica\ConsoleAppAritmetica\bin\Debug\net6.0\ConsoleAppAritmetica.dll
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppAritmetica\ConsoleAppAritmetica\bin\Debug\net6.0\ref\ConsoleAppAritmetica.dll
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppAritmetica\ConsoleAppAritmetica\bin\Debug\net6.0\ConsoleAppAritmetica.pdb
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppAritmetica\ConsoleAppAritmetica\obj\Debug\net6.0\ConsoleAppAritmetica.csproj.AssemblyReference.cache
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppAritmetica\ConsoleAppAritmetica\obj\Debug\net6.0\ConsoleAppAritmetica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppAritmetica\ConsoleAppAritmetica\obj\Debug\net6.0\ConsoleAppAritmetica.AssemblyInfoInputs.cache
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppAritmetica\ConsoleAppAritmetica\obj\Debug\net6.0\ConsoleAppAritmetica.AssemblyInfo.cs
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppAritmetica\ConsoleAppAritmetica\obj\Debug\net6.0\ConsoleAppAritmetica.csproj.CoreCompileInputs.cache
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppAritmetica\ConsoleAppAritmetica\obj\Debug\net6.0\ConsoleAppAritmetica.dll
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppAritmetica\ConsoleAppAritmetica\obj\Debug\net6.0\ref\ConsoleAppAritmetica.dll
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppAritmetica\ConsoleAppAritmetica\obj\Debug\net6.0\ConsoleAppAritmetica.pdb
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppAritmetica\ConsoleAppAritmetica\obj\Debug\net6.0\ConsoleAppAritmetica.genruntimeconfig.cache

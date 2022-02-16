@@ -1,0 +1,15 @@
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppMetodos\ConsoleAppMetodos\bin\Debug\net6.0\ConsoleAppMetodos.exe
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppMetodos\ConsoleAppMetodos\bin\Debug\net6.0\ConsoleAppMetodos.deps.json
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppMetodos\ConsoleAppMetodos\bin\Debug\net6.0\ConsoleAppMetodos.runtimeconfig.json
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppMetodos\ConsoleAppMetodos\bin\Debug\net6.0\ConsoleAppMetodos.dll
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppMetodos\ConsoleAppMetodos\bin\Debug\net6.0\ref\ConsoleAppMetodos.dll
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppMetodos\ConsoleAppMetodos\bin\Debug\net6.0\ConsoleAppMetodos.pdb
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppMetodos\ConsoleAppMetodos\obj\Debug\net6.0\ConsoleAppMetodos.csproj.AssemblyReference.cache
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppMetodos\ConsoleAppMetodos\obj\Debug\net6.0\ConsoleAppMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppMetodos\ConsoleAppMetodos\obj\Debug\net6.0\ConsoleAppMetodos.AssemblyInfoInputs.cache
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppMetodos\ConsoleAppMetodos\obj\Debug\net6.0\ConsoleAppMetodos.AssemblyInfo.cs
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppMetodos\ConsoleAppMetodos\obj\Debug\net6.0\ConsoleAppMetodos.csproj.CoreCompileInputs.cache
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppMetodos\ConsoleAppMetodos\obj\Debug\net6.0\ConsoleAppMetodos.dll
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppMetodos\ConsoleAppMetodos\obj\Debug\net6.0\ref\ConsoleAppMetodos.dll
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppMetodos\ConsoleAppMetodos\obj\Debug\net6.0\ConsoleAppMetodos.pdb
+C:\Users\Estefania.Garces\Documents\Cursos\Platzi\08-Curso-Introduccion-a-C#\ConsoleAppMetodos\ConsoleAppMetodos\obj\Debug\net6.0\ConsoleAppMetodos.genruntimeconfig.cache

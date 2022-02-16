@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f48b1127-7587-4c3a-8c33-f8fdc1088e50": {
+      "ProjectGuid": "f48b1127-7587-4c3a-8c33-f8fdc1088e50",
+      "DisplayName": "ConsoleAppAritmetica",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

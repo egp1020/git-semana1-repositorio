@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a76b7886-a434-4c09-a82c-77ff507d3b19": {
+      "ProjectGuid": "a76b7886-a434-4c09-a82c-77ff507d3b19",
+      "DisplayName": "ConsoleAppLogicalOperator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
